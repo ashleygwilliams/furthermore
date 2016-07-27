@@ -22,7 +22,7 @@
     "yargs": "~4.8.0"
   },
   "devDependencies": {
-    "coveralls": "~2.11.9",
+    "coveralls": "~2.11.12",
     "eslint": "~3.0.1",
     "mocha": "~2.5.3",
     "must": "~0.13.1",
